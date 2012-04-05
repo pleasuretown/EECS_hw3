@@ -1,0 +1,8 @@
+Implementation of a data structure that keeps contact numbers
+for a group
+	Eg
+		Name: Jane Smith. Phone numbers: 123-456-7890, 216-123-4567
+
+Class Definition:
+	Class Contact List
+		/
